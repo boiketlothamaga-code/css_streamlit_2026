@@ -11,7 +11,6 @@ import streamlit as st
 # --------------------------------
 # Page configuration
 # --------------------------------
-st.image("C:/Users/THAMAGA/Downloads/Dr. Thamaga in his lab coat.png")
 st.set_page_config(
     page_title="Gas Sensing Devices Store",
     page_icon="🧪",
