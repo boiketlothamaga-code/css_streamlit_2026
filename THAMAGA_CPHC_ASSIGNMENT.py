@@ -54,7 +54,7 @@ page = st.sidebar.radio(
 # Home Page
 # --------------------------------
 if page == "Home" :
-    st.image("C:/Users/THAMAGA/Downloads/THAMAGA_IMAGE.png")
+    st.image("https://chatgpt.com/s/m_697e20a04dc881918074452e43290e78")
     st.subheader("Gas sensors devices to protect you from harmful and toxic gases!")
 # --------------------------------
 # About
