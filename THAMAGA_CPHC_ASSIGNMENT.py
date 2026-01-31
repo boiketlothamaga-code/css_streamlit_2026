@@ -206,18 +206,10 @@ elif page == "Contact & Orders":
                 f"{product}(s) has been received."
             )
             
-# --------------------------------
-# Thamaga Laboratory
-# --------------------------------
-st.image("https://chatgpt.com/s/m_697e20a04dc881918074452e43290e78")
-st.write("Thank you for visiting us.")
 
 # --------------------------------
 # Footer
 # --------------------------------
-st.divider()
-st.caption("© 2026 Smart Gas Sensing Technologies | MXene-Based Sensors")
-
 st.write("Protect yourself and loved ones.")
 st.write("Get a sensing device NOW!")
 
