@@ -21,11 +21,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background: linear-gradient(
-            135deg,
-            #fdfbfb 0%,
-            #ebedee 100%
-        );
+        background-color: #f4f7fb;
     }
     </style>
     """,
@@ -80,7 +76,7 @@ elif page == "Products":
     with col1:
         st.markdown("### 🏭 Industrial Gas Sensor")
         st.image(
-            "https://upload.wikimedia.org/wikipedia/commons/3/3f/Gas_detector.jpg",
+            "https://www.renkeer.com/wp-content/uploads/2021/06/fixed-gas-detector.jpg",
             use_container_width=True
         )
         st.markdown("""
@@ -94,7 +90,7 @@ elif page == "Products":
     with col2:
         st.markdown("### 🎒 Portable Gas Sensor")
         st.image(
-            "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gas_detector_portable.jpg",
+            "https://tlmcorporation.co.za/wp-content/uploads/2015/11/GasAlertMicroClipXT.jpg",
             use_container_width=True
         )
         st.markdown("""
@@ -108,7 +104,7 @@ elif page == "Products":
     with col3:
         st.markdown("### ⌚ Wearable Gas Sensor")
         st.image(
-            "https://upload.wikimedia.org/wikipedia/commons/9/9e/Wearable_sensor.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLLWl2wS8VvXXcbq5A1f-z7TwRebJk18Pu9w&s",
             use_container_width=True
         )
         st.markdown("""
