@@ -58,7 +58,6 @@ if page == "Home" :
         "C:/Users/THAMAGA/Pictures/THAMAGA_LABCOAT.jpg",
         use_column_width=True
     )
-    st.markdown("""
     
     st.subheader("Gas sensors devices to protect you from harmful and toxic gases!")
 # --------------------------------
