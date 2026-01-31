@@ -13,7 +13,7 @@ import streamlit as st
 # --------------------------------
 st.set_page_config(
     page_title="Gas Sensing Devices Store",
-    page_icon="🧪",
+    page_icon="https://chatgpt.com/s/m_697e20a04dc881918074452e43290e78",
     layout="wide"
 )
 
