@@ -209,7 +209,7 @@ elif page == "Contact & Orders":
 # --------------------------------
 # Thamaga Laboratory
 # --------------------------------
-st.image("C:/Users/THAMAGA/Downloads/THAMAGA_IMAGE.png")
+st.image("https://chatgpt.com/s/m_697e20a04dc881918074452e43290e78")
 st.write("Thank you for visiting us.")
 
 # --------------------------------
