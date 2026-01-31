@@ -56,7 +56,7 @@ page = st.sidebar.radio(
 if page == "Home" :
     st.image(
         "C:/Users/THAMAGA/Pictures/THAMAGA_LABCOAT.jpg",
-        use_container_width=True
+        use_column_width=True
     )
     st.markdown("""
     
