@@ -47,13 +47,19 @@ st.divider()
 # --------------------------------
 page = st.sidebar.radio(
     "Navigate",
-    ["Home", "Products", "Wearable Sensors", "Technology", "Contact & Orders"]
+    ["Home", "About", "Products", "Wearable Sensors", "Technology", "Contact & Orders"]
 )
 
 # --------------------------------
 # Home Page
 # --------------------------------
-if page == "Home":
+if page == "Home" :
+    st.image("C:/Users/THAMAGA/Downloads/THAMAGA_IMAGE.png")
+    st.subheader("Gas sensors devices to protect you from harmful and toxic gases!")
+# --------------------------------
+# About
+# --------------------------------
+if page == "About":
     st.subheader("🚀 Why Our Gas Sensors?")
     st.markdown("""
 - **High sensitivity & selectivity**
