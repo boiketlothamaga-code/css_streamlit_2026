@@ -11,6 +11,7 @@ import streamlit as st
 # --------------------------------
 # Page configuration
 # --------------------------------
+st.image("C:/Users/THAMAGA/Downloads/THAMAGA_IMAGE.png")
 st.set_page_config(
     page_title="Gas Sensing Devices Store",
     page_icon="🧪",
@@ -177,6 +178,7 @@ leading to measurable resistance changes even at room temperature.
 # --------------------------------
 # Contact & Orders Page
 # --------------------------------
+
 elif page == "Contact & Orders":
     st.subheader("📫 Contact & Orders")
 
