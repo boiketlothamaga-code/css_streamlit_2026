@@ -70,7 +70,7 @@ elif page == "Products":
 - Detects VOCs, CO, NO₂, NH₃  
 - High stability & long lifetime  
 - Suitable for factories & labs  
-**Price:** $450
+**Price:** R7000
         """)
         st.button("Add to Cart – Industrial")
 
@@ -84,7 +84,7 @@ elif page == "Products":
 - Compact & battery-powered  
 - Bluetooth & mobile app support  
 - Ideal for field measurements  
-**Price:** $220
+**Price:** R3500
         """)
         st.button("Add to Cart – Portable")
 
@@ -98,7 +98,7 @@ elif page == "Products":
 - Lightweight & skin-compatible  
 - Ultra-low power consumption  
 - Continuous personal exposure monitoring  
-**Price:** $180
+**Price:** R500
         """)
         st.button("Add to Cart – Wearable")
 
