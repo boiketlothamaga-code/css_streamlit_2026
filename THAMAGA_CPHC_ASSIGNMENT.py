@@ -182,7 +182,7 @@ elif page == "Contact & Orders":
     st.subheader("📫 Contact & Orders")
 
     st.markdown("""
-📧 **Email:** boiketlothamaga@gmail.com  
+📧 **Email:** boiketlothamaga@ThamagaLab.ac.za  
 📞 **Phone:** +27 67 793 9766  
 🌍 **Location:** Thamaga Research & Innovation Lab  
     """)
