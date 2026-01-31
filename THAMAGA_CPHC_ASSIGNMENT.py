@@ -16,6 +16,19 @@ st.set_page_config(
     layout="wide"
 )
 
+# Background color
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-color: #f4f7fb;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+
 # --------------------------------
 # Header
 # --------------------------------
