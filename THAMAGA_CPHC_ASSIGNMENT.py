@@ -34,7 +34,7 @@ st.markdown(
 # --------------------------------
 # Header
 # --------------------------------
-st.title("🧪 Thamaga's Smart Gas Sensing Devices")
+st.title("https://chatgpt.com/s/m_697e20a04dc881918074452e43290e78 Thamaga's Smart Gas Sensing Devices")
 st.markdown(
     "### Advanced Gas Sensors for Industrial, Environmental, and Wearable Applications"
 )
