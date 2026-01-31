@@ -184,7 +184,7 @@ elif page == "Contact & Orders":
     st.markdown("""
 📧 **Email:** boiketlothamaga@ThamagaLab.ac.za  
 📞 **Phone:** +27 13 777 6666
-🌍 **Location:** Thamaga Research & Innovation Lab  
+ 🌍 **Location:** Thamaga Research & Innovation Lab  
     """)
 
 
