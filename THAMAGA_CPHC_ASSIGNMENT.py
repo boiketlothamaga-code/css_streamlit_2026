@@ -104,7 +104,7 @@ elif page == "Products":
     with col3:
         st.markdown("### ⌚ Wearable Gas Sensor")
         st.image(
-            "https://www.researchgate.net/publication/349088989/figure/fig11/AS:988949455589379@1612795332891/Types-of-wearable-gas-sensors-Wearable-gas-sensors-Adapted-with-permission56.png",
+            "https://ars.els-cdn.com/content/image/1-s2.0-S1385894724093902-gr1.jpg",
             use_container_width=True
         )
         st.markdown("""
