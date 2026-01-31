@@ -40,7 +40,7 @@ st.markdown(
 )
 
 st.divider()
-st.image("C:/Users/THAMAGA/Downloads/THAMAGA_IMAGE.png")
+
 
 # --------------------------------
 # Navigation
