@@ -205,6 +205,12 @@ elif page == "Contact & Orders":
                 f"Thank you {name}! Your request for {quantity} "
                 f"{product}(s) has been received."
             )
+            
+# --------------------------------
+# Thamaga Laboratory
+# --------------------------------
+st.image("C:/Users/THAMAGA/Downloads/THAMAGA_IMAGE.png")
+st.write("Thank you for visiting us.")
 
 # --------------------------------
 # Footer
@@ -218,8 +224,3 @@ st.write("Get a sensing device NOW!")
 st.divider()
 st.caption("© 2026 Thamaga's Smart Gas Sensing Technologies | Wearable Sensors")
 
-# --------------------------------
-# Thamaga Laboratory
-# --------------------------------
-st.image("C:/Users/THAMAGA/Downloads/THAMAGA_IMAGE.png")
-st.write("Thank you for visiting us.")
