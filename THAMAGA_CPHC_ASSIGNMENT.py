@@ -13,7 +13,7 @@ import streamlit as st
 # --------------------------------
 st.set_page_config(
     page_title="Gas Sensing Devices Store",
-    page_icon="https://chatgpt.com/s/m_697e20a04dc881918074452e43290e78",
+    page_icon="🧪",
     layout="wide"
 )
 
@@ -34,7 +34,7 @@ st.markdown(
 # --------------------------------
 # Header
 # --------------------------------
-st.title("https://chatgpt.com/s/m_697e20a04dc881918074452e43290e78 Thamaga's Smart Gas Sensing Devices")
+st.title("🧪 Thamaga's Smart Gas Sensing Devices")
 st.markdown(
     "### Advanced Gas Sensors for Industrial, Environmental, and Wearable Applications"
 )
