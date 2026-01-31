@@ -217,13 +217,9 @@ elif page == "Contact & Orders":
                 f"{product}(s) has been received."
             )
             
-
 # --------------------------------
 # Footer
 # --------------------------------
-st.write("Protect yourself and loved ones.")
-st.write("Get a sensing device NOW!")
-
 st.divider()
 st.caption("© 2026 Thamaga's Smart Gas Sensing Technologies | Wearable Sensors")
 
