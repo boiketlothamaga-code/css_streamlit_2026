@@ -11,7 +11,7 @@ import streamlit as st
 # --------------------------------
 # Page configuration
 # --------------------------------
-st.image("https://chatgpt.com/backend-api/estuary/content?id=file_0000000054cc71f5ab12f05830140ef4&ts=491631&p=fs&cid=1&sig=d5736b94a3574985e0b7be20e02f55954e6ab89c136c9658aec996947252b6ba&v=0")
+st.image("https://chatgpt.com/s/m_697e20a04dc881918074452e43290e78")
 st.set_page_config(
     page_title="Gas Sensing Devices Store",
     page_icon="🧪",
