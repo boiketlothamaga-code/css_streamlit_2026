@@ -5,7 +5,57 @@ Created on Sat Jan 31 15:47:01 2026
 @author: THAMAGA
 """
 
+# -*- coding: utf-8 -*-
 import streamlit as st
+
+# --- Set page config ---
+st.set_page_config(page_title="My App", page_icon="🌟", layout="wide")
+
+# --- CSS for background image for all pages ---
+def set_bg_image():
+    st.markdown(
+        f'''
+        <style>
+        /* Full-page background image */
+        body {{
+            background-image: url("C:/Users/THAMAGA/Downloads/THAMAGA_IMAGE.png");
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center;
+        }}
+
+        /* Overlay to improve text visibility */
+        .stApp {{
+            background-color: rgba(0, 0, 0, 0.5); /* semi-transparent overlay */
+            padding: 2rem;
+            border-radius: 10px;
+        }}
+
+        /* Text styling */
+        h1, h2, h3, p, span, div {{
+            color: white !important;
+        }}
+        </style>
+        ''',
+        unsafe_allow_html=True
+    )
+
+# Apply the background
+set_bg_image()
+
+# --- Example navigation ---
+page = st.sidebar.selectbox("Select a page:", ["Home", "About", "Contact"])
+
+if page == "Home":
+    st.title("Welcome to My Streamlit App")
+    st.write("This background is visible on all pages!")
+elif page == "About":
+    st.header("About Page")
+    st.write("Even on this page, the background stays the same.")
+else:
+    st.header("Contact Page")
+    st.write("Background consistency maintained.")
+
 
 # --------------------------------
 # Page configuration
