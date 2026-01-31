@@ -19,7 +19,7 @@ st.set_page_config(
 # --------------------------------
 # Header
 # --------------------------------
-st.title("🧪 Smart Gas Sensing Devices")
+st.title("🧪 Thamaga's Smart Gas Sensing Devices")
 st.markdown(
     "### Advanced Gas Sensors for Industrial, Environmental, and Wearable Applications"
 )
@@ -133,6 +133,7 @@ with **flexible substrates** to enable real-time personal exposure monitoring.
 - Smart clothing & IoT  
         """)
 
+
 # --------------------------------
 # Technology Page
 # --------------------------------
@@ -147,6 +148,7 @@ elif page == "Technology":
 - Defect engineering for enhanced sensitivity  
     """)
 
+
     st.markdown("""
 **Operating Principle**
 Gas adsorption alters carrier concentration and interfacial barriers,
@@ -154,6 +156,7 @@ leading to measurable resistance changes even at room temperature.
     """)
 
     st.success("Our technology is scalable, low-cost, and industry-ready.")
+    
 
 # --------------------------------
 # Contact & Orders Page
@@ -193,3 +196,6 @@ st.caption("© 2026 Smart Gas Sensing Technologies | MXene-Based Sensors")
 
 st.write("Protect yourself and loved ones.")
 st.write("Get a sensing device NOW!")
+
+st.divider()
+st.caption("© 2026 Thamaga's Smart Gas Sensing Technologies | Wearable Sensors")
