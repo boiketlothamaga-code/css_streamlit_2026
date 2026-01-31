@@ -21,8 +21,11 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-color: #0f172a;
-        color: #e5e7eb;
+        background: linear-gradient(
+            135deg,
+            #fdfbfb 0%,
+            #ebedee 100%
+        );
     }
     </style>
     """,
