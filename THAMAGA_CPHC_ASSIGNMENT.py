@@ -54,8 +54,12 @@ page = st.sidebar.radio(
 # Home Page
 # --------------------------------
 if page == "Home" :
-    st.image("C:/Users/THAMAGA/Pictures/THAMAGA_LABCOAT.jpg")
-    use_container_width=True
+    st.image(
+        "C:/Users/THAMAGA/Pictures/THAMAGA_LABCOAT.jpg",
+        use_container_width=True
+    )
+    st.markdown("""
+    
     st.subheader("Gas sensors devices to protect you from harmful and toxic gases!")
 # --------------------------------
 # About
