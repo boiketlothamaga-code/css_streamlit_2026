@@ -55,7 +55,7 @@ page = st.sidebar.radio(
 # --------------------------------
 if page == "Home" :
     st.image(
-        "THAMAGA_GAS SENSOR.jpg",
+        "THAMAGA_GAS SENSOR",
         use_column_width=True
     ) 
     st.subheader("Gas sensors devices to protect you from harmful and toxic gases!")
